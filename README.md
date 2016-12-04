@@ -1,1 +1,2 @@
-# mightynerd.github.io
+# confysoft
+Very comfy software
